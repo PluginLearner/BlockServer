@@ -1,4 +1,2 @@
-BlockServer
+DEAD BRANCH
 ===========
-
-A minecraft PE server written in java
